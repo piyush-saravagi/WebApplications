@@ -25,13 +25,22 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebForms(1)", "WebForms\", 
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{76038A04-3948-415B-AAB9-EA5FB782EC2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EFD5EA4C-0EE5-4379-89AD-CEDE474888DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EFD5EA4C-0EE5-4379-89AD-CEDE474888DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD5EA4C-0EE5-4379-89AD-CEDE474888DE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD5EA4C-0EE5-4379-89AD-CEDE474888DE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{76038A04-3948-415B-AAB9-EA5FB782EC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76038A04-3948-415B-AAB9-EA5FB782EC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76038A04-3948-415B-AAB9-EA5FB782EC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76038A04-3948-415B-AAB9-EA5FB782EC2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
