@@ -27,6 +27,12 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebForms(1)", "WebForms\", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{76038A04-3948-415B-AAB9-EA5FB782EC2B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WCF Service", "WCF Service", "{289B5112-482F-44A6-B12E-126D6189DB74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculatorHost", "WCF Service\AgeCalculatorHostClass\AgeCalculatorHost.csproj", "{05F3D550-DE10-43D6-AA3B-36E543C980B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculatorService", "WCF Service\AgeCalculatorService\AgeCalculatorService.csproj", "{B5754C8C-ED44-4726-8A59-AA4D5885E6B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,9 +47,21 @@ Global
 		{76038A04-3948-415B-AAB9-EA5FB782EC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76038A04-3948-415B-AAB9-EA5FB782EC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76038A04-3948-415B-AAB9-EA5FB782EC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F3D550-DE10-43D6-AA3B-36E543C980B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F3D550-DE10-43D6-AA3B-36E543C980B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F3D550-DE10-43D6-AA3B-36E543C980B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F3D550-DE10-43D6-AA3B-36E543C980B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5754C8C-ED44-4726-8A59-AA4D5885E6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5754C8C-ED44-4726-8A59-AA4D5885E6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5754C8C-ED44-4726-8A59-AA4D5885E6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5754C8C-ED44-4726-8A59-AA4D5885E6B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{05F3D550-DE10-43D6-AA3B-36E543C980B6} = {289B5112-482F-44A6-B12E-126D6189DB74}
+		{B5754C8C-ED44-4726-8A59-AA4D5885E6B5} = {289B5112-482F-44A6-B12E-126D6189DB74}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {41FB35EE-2139-409F-8285-6CBD87D490DD}

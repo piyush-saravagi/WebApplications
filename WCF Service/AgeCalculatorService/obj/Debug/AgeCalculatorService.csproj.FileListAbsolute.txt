@@ -1,0 +1,7 @@
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorService\bin\Debug\AgeCalculatorService.dll.config
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorService\bin\Debug\AgeCalculatorService.dll
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorService\bin\Debug\AgeCalculatorService.pdb
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorService\obj\Debug\AgeCalculatorService.csprojAssemblyReference.cache
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorService\obj\Debug\AgeCalculatorService.csproj.CoreCompileInputs.cache
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorService\obj\Debug\AgeCalculatorService.dll
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorService\obj\Debug\AgeCalculatorService.pdb

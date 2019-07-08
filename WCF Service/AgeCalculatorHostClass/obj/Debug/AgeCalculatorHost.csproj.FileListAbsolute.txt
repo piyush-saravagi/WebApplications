@@ -1,0 +1,11 @@
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorHostClass\bin\Debug\AgeCalculatorHostClass.exe.config
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorHostClass\bin\Debug\AgeCalculatorHostClass.exe
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorHostClass\bin\Debug\AgeCalculatorHostClass.pdb
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorHostClass\bin\Debug\AgeCalculatorService.dll
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorHostClass\bin\Debug\AgeCalculatorService.pdb
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorHostClass\bin\Debug\AgeCalculatorService.dll.config
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorHostClass\obj\Debug\AgeCalculatorHost.csprojAssemblyReference.cache
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorHostClass\obj\Debug\AgeCalculatorHost.csproj.CoreCompileInputs.cache
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorHostClass\obj\Debug\AgeCalculatorHost.csproj.CopyComplete
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorHostClass\obj\Debug\AgeCalculatorHostClass.exe
+C:\Users\Piyush Saravagi\source\repos\WebApplications\WCF Service\AgeCalculatorHostClass\obj\Debug\AgeCalculatorHostClass.pdb
