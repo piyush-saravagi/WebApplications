@@ -31,5 +31,10 @@ namespace AgeCalculatorClient
         {
             MessageBox.Show("Thanks!");
         }
+
+        private void debugInstructionsLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
