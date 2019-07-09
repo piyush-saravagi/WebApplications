@@ -1,0 +1,10 @@
+C:\Users\psaravagi\Desktop\WebApplications\WCF Services\AgeCalculatorClient\bin\Debug\AgeCalculatorClient.exe.config
+C:\Users\psaravagi\Desktop\WebApplications\WCF Services\AgeCalculatorClient\bin\Debug\AgeCalculatorClient.exe
+C:\Users\psaravagi\Desktop\WebApplications\WCF Services\AgeCalculatorClient\bin\Debug\AgeCalculatorClient.pdb
+C:\Users\psaravagi\Desktop\WebApplications\WCF Services\AgeCalculatorClient\obj\Debug\AgeCalculatorClient.csprojAssemblyReference.cache
+C:\Users\psaravagi\Desktop\WebApplications\WCF Services\AgeCalculatorClient\obj\Debug\AgeCalculatorClient.Form1.resources
+C:\Users\psaravagi\Desktop\WebApplications\WCF Services\AgeCalculatorClient\obj\Debug\AgeCalculatorClient.Properties.Resources.resources
+C:\Users\psaravagi\Desktop\WebApplications\WCF Services\AgeCalculatorClient\obj\Debug\AgeCalculatorClient.csproj.GenerateResource.cache
+C:\Users\psaravagi\Desktop\WebApplications\WCF Services\AgeCalculatorClient\obj\Debug\AgeCalculatorClient.csproj.CoreCompileInputs.cache
+C:\Users\psaravagi\Desktop\WebApplications\WCF Services\AgeCalculatorClient\obj\Debug\AgeCalculatorClient.exe
+C:\Users\psaravagi\Desktop\WebApplications\WCF Services\AgeCalculatorClient\obj\Debug\AgeCalculatorClient.pdb

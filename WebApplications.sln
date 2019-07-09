@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebForms(1)", "WebForms\", "{EFD5EA4C-0EE5-4379-89AD-CEDE474888DE}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebForms", "WebForms\", "{EFD5EA4C-0EE5-4379-89AD-CEDE474888DE}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_56929"
@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculatorService", "WCF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculatorClient", "WCF Services\AgeCalculatorClient\AgeCalculatorClient.csproj", "{AE709F93-ABCB-4B75-99BD-7E352A74162B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{A1A6283E-9422-4DBF-9356-FE8331E2DD8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{AE709F93-ABCB-4B75-99BD-7E352A74162B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE709F93-ABCB-4B75-99BD-7E352A74162B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE709F93-ABCB-4B75-99BD-7E352A74162B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A6283E-9422-4DBF-9356-FE8331E2DD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A6283E-9422-4DBF-9356-FE8331E2DD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A6283E-9422-4DBF-9356-FE8331E2DD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A6283E-9422-4DBF-9356-FE8331E2DD8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

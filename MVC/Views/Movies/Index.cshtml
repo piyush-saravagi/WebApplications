@@ -1,0 +1,15 @@
+﻿@model List<MVC.Models.Movie>
+
+@{
+    ViewBag.Title = "Index";
+    //Layout = "~/Views/_ViewStart.cshtml";
+}
+
+<ul>
+    @foreach (var movie in Model)
+    {
+
+        <li>@movie.Name</li>
+
+    }
+</ul>
