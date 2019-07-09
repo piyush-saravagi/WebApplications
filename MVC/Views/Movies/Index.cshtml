@@ -5,11 +5,19 @@
     //Layout = "~/Views/_ViewStart.cshtml";
 }
 
-<ul>
-    @foreach (var movie in Model)
-    {
-
-        <li>@movie.Name</li>
-
-    }
-</ul>
+<div>
+    <hr>
+    <table border="1" width="500">
+        <tr>
+            <th width="250">ID</th>
+            <th width="250">Name</th>
+        </tr>
+        @foreach (var movie in Model)
+        {
+            <tr>
+                <td>@movie.Id</td>
+                <td>@movie.Name</td>
+            </tr>
+        }
+    </table>
+</div>
